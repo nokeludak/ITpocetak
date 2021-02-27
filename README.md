@@ -1,0 +1,2 @@
+# ITpocetak
+moj prvi folder
